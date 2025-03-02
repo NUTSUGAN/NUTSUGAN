@@ -2,8 +2,8 @@
 
 🚀 Développeur passionné par [Front-end | Back-end | Full-Stack | DevOps | Autres]. 
 
-J'adore construire des applications performantes et innovantes. Toujours en quête de
-nouvelles connaissances, j'explore sans cesse de nouvelles technologies.
+J'adore construire des applications performantes et innovantes. Toujours en quête 
+de nouvelles connaissances, j'explore sans cesse de nouvelles technologies.
 
 💻 Technologies : [React, Node.js, PHP, Python, etc.]
 
